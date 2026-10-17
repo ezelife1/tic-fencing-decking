@@ -6,5 +6,3 @@ Allow: /
 
 User-agent: Twitterbot
 Allow: /
-
-Sitemap: https://ticfencinganddecking.co.uk/sitemap.xml
